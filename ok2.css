@@ -1,0 +1,22 @@
+body{
+	
+	background:radial-gradient(white,blue,white);
+}
+/*commentaire*/
+
+.DI{
+	
+	border-width:3px;
+	border-style:dashed;
+	border-color:black;
+	width:16%;
+	border-radius:100px;
+	padding:20px;
+	font-size:20px
+}
+.img{
+     padding: 2px;
+	 border: 1px solid #ccc;
+	 box-shadow: 0px 0px 17px #BBB;
+	text-align:center
+}
